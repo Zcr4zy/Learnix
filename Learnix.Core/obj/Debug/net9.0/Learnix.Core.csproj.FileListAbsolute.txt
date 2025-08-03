@@ -1,0 +1,30 @@
+C:\Users\User\Downloads\Learnix\Learnix.Core\bin\Debug\net9.0\Learnix.Core.deps.json
+C:\Users\User\Downloads\Learnix\Learnix.Core\bin\Debug\net9.0\Learnix.Core.dll
+C:\Users\User\Downloads\Learnix\Learnix.Core\bin\Debug\net9.0\Learnix.Core.pdb
+C:\Users\User\Downloads\Learnix\Learnix.Core\obj\Debug\net9.0\Learnix.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Learnix\Learnix.Core\obj\Debug\net9.0\Learnix.Core.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Learnix\Learnix.Core\obj\Debug\net9.0\Learnix.Core.AssemblyInfo.cs
+C:\Users\User\Downloads\Learnix\Learnix.Core\obj\Debug\net9.0\Learnix.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Learnix\Learnix.Core\obj\Debug\net9.0\Learnix.Core.sourcelink.json
+C:\Users\User\Downloads\Learnix\Learnix.Core\obj\Debug\net9.0\Learnix.Core.dll
+C:\Users\User\Downloads\Learnix\Learnix.Core\obj\Debug\net9.0\refint\Learnix.Core.dll
+C:\Users\User\Downloads\Learnix\Learnix.Core\obj\Debug\net9.0\Learnix.Core.pdb
+C:\Users\User\Downloads\Learnix\Learnix.Core\obj\Debug\net9.0\ref\Learnix.Core.dll
+C:\Users\User\Downloads\Learnix\Learnix.Core\bin\Debug\net9.0\Learnix.Core.runtimeconfig.json
+C:\Users\User\Downloads\Learnix\Learnix.Core\obj\Debug\net9.0\Learnix.Core.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Learnix\Learnix.Core\obj\Debug\net9.0\Learnix.Core.genruntimeconfig.cache
+C:\Users\User\Downloads\Cursos\01 - C#\JWT\Learnix\Learnix.Core\bin\Debug\net9.0\Learnix.Core.deps.json
+C:\Users\User\Downloads\Cursos\01 - C#\JWT\Learnix\Learnix.Core\bin\Debug\net9.0\Learnix.Core.runtimeconfig.json
+C:\Users\User\Downloads\Cursos\01 - C#\JWT\Learnix\Learnix.Core\bin\Debug\net9.0\Learnix.Core.dll
+C:\Users\User\Downloads\Cursos\01 - C#\JWT\Learnix\Learnix.Core\bin\Debug\net9.0\Learnix.Core.pdb
+C:\Users\User\Downloads\Cursos\01 - C#\JWT\Learnix\Learnix.Core\obj\Debug\net9.0\Learnix.Core.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Cursos\01 - C#\JWT\Learnix\Learnix.Core\obj\Debug\net9.0\Learnix.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Cursos\01 - C#\JWT\Learnix\Learnix.Core\obj\Debug\net9.0\Learnix.Core.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Cursos\01 - C#\JWT\Learnix\Learnix.Core\obj\Debug\net9.0\Learnix.Core.AssemblyInfo.cs
+C:\Users\User\Downloads\Cursos\01 - C#\JWT\Learnix\Learnix.Core\obj\Debug\net9.0\Learnix.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Cursos\01 - C#\JWT\Learnix\Learnix.Core\obj\Debug\net9.0\Learnix.Core.sourcelink.json
+C:\Users\User\Downloads\Cursos\01 - C#\JWT\Learnix\Learnix.Core\obj\Debug\net9.0\Learnix.Core.dll
+C:\Users\User\Downloads\Cursos\01 - C#\JWT\Learnix\Learnix.Core\obj\Debug\net9.0\refint\Learnix.Core.dll
+C:\Users\User\Downloads\Cursos\01 - C#\JWT\Learnix\Learnix.Core\obj\Debug\net9.0\Learnix.Core.pdb
+C:\Users\User\Downloads\Cursos\01 - C#\JWT\Learnix\Learnix.Core\obj\Debug\net9.0\Learnix.Core.genruntimeconfig.cache
+C:\Users\User\Downloads\Cursos\01 - C#\JWT\Learnix\Learnix.Core\obj\Debug\net9.0\ref\Learnix.Core.dll
